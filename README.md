@@ -1,1 +1,8 @@
 # pandas_challange
+The dataset encompasses a total of 15 schools, 39,170 students. 
+
+The school summary finding showed that from 15 schools 7 of them are found at the district level, and the other 8 of them found at the charter level. The number of students in schools ranged between 427 students (Holden High School) to 4976 students (Bailey High School).
+
+the data showed that in all metrics (average, percent, and overall) of reading and math scores Charter schools have a greater score than District schools. Pena High School has the maximum (83.839917) average math score (83.839917), percent of students passing math (94.59%) and average reading score (84.044699). This implies that Pena High School has a good quality, and reputation in teaching math, and reading. On the other side, Huang High School has a lower average math score (76.842711), and percent of students passing math (65.683922 ). Regarding the percent of passing reading class Thomas High School has a higher percentage value (97.30%). On the flip side, Rodriguez High School has a lower Average Reading Score(80.744686), and Ford High School has a lower passing reading. In the overall percentage passing Cabrera High School has the maximum passing percentage rate ( 91.33 %), and Rodriguez High School has a lower percentage of (52.98) passing.
+
+data revealed that when the number of students sizes higher in schools the average math scores, average reading scores, passing math, passing reading, and overall passing decrease. So, we can infer that, when student size rises, it negatively influences student achievement. Therefore, schools, cities, districts, and charters should work on student size in schools, and classes because it directly affects student achievement for so many reasons.
